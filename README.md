@@ -1,2 +1,2 @@
 # Python
-My Python Learning Path
+Python for Starters
